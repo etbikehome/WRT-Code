@@ -2,7 +2,7 @@
 Code for Wellesley Robotics Team FRC Robot
 
 ## Drivetrain
-Mecanum Drive
+2 gearboxes, 4 motors
 * Left Front Motor - Spark Max - PWM	9
 * Left Rear Motor - Spark Max - PWM	7
 * Right Front Motor - Spark Max - PWM	8
